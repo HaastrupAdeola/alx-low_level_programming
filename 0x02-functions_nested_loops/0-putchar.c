@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - print _putchar
+ * main - print _putchar and a new line
  * written by Adeola for alx
  * return: 0
  */
@@ -17,6 +17,5 @@ _putchar('h');
 _putchar('a');
 _putchar('r');
 _putchar('\n');
-
 return (0);
 }
