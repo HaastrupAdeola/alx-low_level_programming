@@ -3,8 +3,8 @@
 
 /*
  * File: main.h
- * Desc: _putchar
- */
+ * Description: _putchar
+*/
 
 int _putchar(char c);
 void print_alphabet(void);
