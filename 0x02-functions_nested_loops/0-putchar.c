@@ -3,7 +3,7 @@
 /**
  * main - print _putchar and a new line
  * written by Adeola for alx
- * return: 0
+ * Return: Always 0.
  */
 
 int main(void)
